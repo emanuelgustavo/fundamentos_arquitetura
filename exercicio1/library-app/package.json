@@ -1,0 +1,17 @@
+{
+  "name": "library-app",
+  "version": "1.0.0",
+  "description": "app para resolver os exercicios propostos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "mongodb",
+    "express"
+  ],
+  "author": "Emanuel Gustavo Vierne",
+  "license": "MIT"
+}
